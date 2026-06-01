@@ -11,3 +11,4 @@ Local links:
 http://localhost:8001/messages
 
 http://192.168.87.77:8000/
+http://192.168.87.77:8000/docs

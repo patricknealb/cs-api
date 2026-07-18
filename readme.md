@@ -6,6 +6,9 @@ cs-python-api:
 cs-admin:
 > python3 -m uvicorn app.main:app --reload --port 8001
 
+cs-mobile:
+> npx expo start
+
 Local links:
 
 http://localhost:8001/messages
